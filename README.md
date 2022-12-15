@@ -13,3 +13,7 @@ client -> npm socket.io-client
 	  npm i lodash
 	  npm i ant
 	  npm i firebase
+	  
+After installing the libraries, the react project is run under the client directory with command:
+npm start
+To communicate between two servers, the local host page should be also open at another browser.
